@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Bilgeç</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_id">Hesap Numarası</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="action_sign_in">Giriş Yap</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Hesap numarası hatalı!</string>
+    <string name="error_invalid_password">Bu şifre çok kısa!</string>
+    <string name="error_incorrect_password">Şifre veya kullanıcı adı yanlış!</string>
+    <string name="error_field_required">Zorunlu alan</string>
+
+    <string name="title_activity_main">Bir konu seç</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="user_name">User Name</string>
+    <string name="user_id">User Id</string>
+    <string name="action_settings">Settings</string>
+    <string name="ozan_name">User Name</string>
+    <string name="ozan_id">User Name</string>
+    <string name="title_activity_quiz">Sorular</string>
+    <string name="add_textbox_hint">Add a ToDo item</string>
+    <string name="add_button_text">Add</string>
+    <string name="mobile_services">Oyuncak Dükkanım</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="checkbox_text">Item Text</string>
+    <string name="submit">Cevapla</string>
+
+    <string name="answer1.1">Mavi</string>
+    <string name="answer1.2">Sarı</string>
+    <string name="answer1.3">Yeşil</string>
+    <string name="question1">Geri dönüşüm için geri dönüştürülebilen ürünleri hangi renk poşette toplamalıyız?</string>
+
+    <string name="question2">Aşağıdakilerden hangisi geri dönüştürülebilir bir ürün değildir?</string>
+    <string name="answer2.1">Cam şişe</string>
+    <string name="answer2.2">Gazete kağıdı</string>
+    <string name="answer2.3">Soğan kabuğu</string>
+
+    <string name="title_activity_watched">İzlediğim Videolar</string>
+
+
+</resources>
